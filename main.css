@@ -87,7 +87,6 @@ body {
 }
 
 .features {
-  justify: flex;
   color: red;
 }
 .card-card {
