@@ -84,7 +84,11 @@ body {
 /*	left: 8%;
   	position: absolute;
   	top: 80%;*/
+}
 
+.features {
+  justify: flex;
+  color: red;
 }
 .card-card {
 	padding-top: 200px;
