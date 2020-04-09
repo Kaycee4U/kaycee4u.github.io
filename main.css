@@ -87,6 +87,7 @@ body {
 }
 
 .features {
+  text-align: center;
   color: red;
 }
 .card-card {
